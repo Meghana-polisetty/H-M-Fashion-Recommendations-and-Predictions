@@ -1,3 +1,5 @@
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/90289879/193695870-fcca2f70-bd0a-45d9-86c3-6017f10d7332.png">
+
 # H&M-Fashion-Recommendations-and-Predictions
 
 Business Problem 
