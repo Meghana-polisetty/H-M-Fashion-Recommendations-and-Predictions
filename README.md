@@ -13,9 +13,11 @@ Objective :
 Build a Forecasting model to predict the product demand accurately using ML
 Build a propensity machine learning model to understand the consumer needs by predicting their purchases through RFM analysis 
 
-PRoduct Demand Forecasting
+Product Demand Forecasting
+
 <img width="898" alt="image" src="https://user-images.githubusercontent.com/90289879/193695650-682bd959-8b27-41a8-bd5c-cb01d2f984ed.png">
 
 Customer Lifetime Value Analysis based on RFM 
+
 <img width="898" alt="image" src="https://user-images.githubusercontent.com/90289879/193695679-4333303f-2cf5-43b9-ba5b-4b6d8840eb8f.png">
 
